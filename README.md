@@ -100,6 +100,5 @@ Registeration Number : 212221220025
 
 
 
-RESULT
+# RESULT
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
-![image](https://github.com/KARPAGAKIRTHIKA/Mobile-Application-Development/assets/103020162/f1707ff1-921a-4031-b4cf-17a200e423a9)
